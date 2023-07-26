@@ -1,0 +1,2 @@
+# Connection To Database Server
+This folder contains files for configuring connections to several Database Servers such as MySQL, SQL Server, MariaDB, Oracle, PostgreSQL, SQLite, MongoDB, & Firebase using PHP Native.
